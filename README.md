@@ -5,13 +5,13 @@ Screenshots
 ---
 
 ### HTML
-![HTML](screenshots/html.png)
+![HTML](images/html.png)
 
 ### CSS
-![HTML](screenshots/css.png)
+![HTML](images/styles.png)
 
 ### JavaScript
-![HTML](screenshots/js.png)
+![HTML](images/js.png)
 
 Installation
 ---
